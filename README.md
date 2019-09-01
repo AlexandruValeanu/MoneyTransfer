@@ -15,7 +15,7 @@ RESTful API for money transfers between accounts.
 
 - Java 8
 - [Maven](https://maven.apache.org/)
-- [Vert.x]([https://vertx.io/](https://vertx.io/))
+- [Vert.x](https://vertx.io/)
 - [google/gson](https://github.com/google/gson)
 - [JUnit 4](https://junit.org/junit4/)
 - [AssertJ](https://joel-costigliola.github.io/assertj/)

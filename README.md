@@ -18,8 +18,8 @@ RESTful API for money transfers between accounts.
 - [Vert.x]([https://vertx.io/](https://vertx.io/))
 - [google/gson](https://github.com/google/gson)
 - [JUnit 4](https://junit.org/junit4/)
-- [AssertJ]([https://joel-costigliola.github.io/assertj/](https://joel-costigliola.github.io/assertj/))
-- [REST-assured]([http://rest-assured.io/](http://rest-assured.io/))
+- [AssertJ](https://joel-costigliola.github.io/assertj/)
+- [REST-assured](http://rest-assured.io/)
 
 ## How to build the application
 
